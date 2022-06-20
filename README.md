@@ -1,9 +1,14 @@
 # pulsar-pinot-hackathon
+
 Apache Pulsar - Apache Pinot - Hackathon Starter
 
+### References
+
+* https://dev.startree.ai/docs/pinot/recipes/pulsar
+* https://github.com/startreedata/pinot-recipes/tree/main/recipes/pulsar
 
 
-### Point to my cluster
+### airquality example
 
 
 #### schema.json
